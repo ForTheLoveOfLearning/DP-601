@@ -10,11 +10,7 @@ Don't forget to star (🌟) this repo to find it easier later.
 ## Content
 
 
-<img src="https://ForTheLoveOfLearning.github.io/DP-601_Mindmap.svg">
-
-
-
---------------------------------------
+<img src="https://fortheloveoflearning.github.io/DP-601/DP-601_Mindmap.svg">
 
   
 ## Learning Excellence Resources📒
@@ -22,22 +18,22 @@ Don't forget to star (🌟) this repo to find it easier later.
 
 ## Extra Resources
 
-### Explore Microsoft Fabric
+### 1. Explore Microsoft Fabric
 
 
-### Get Started with Lakehouse
+### 2. Get Started with Lakehouse
 
 
-### Use Apache Spark in Microsoft Fabric
+### 3. Use Apache Spark in Microsoft Fabric
 
 
-### Work with Delta Tables
+### 4. Work with Delta Tables
 
 
-### Ingest Data with Dataflows Gen2
+### 5. Ingest Data with Dataflows Gen2
 
 
-### Use Data Factory Pipelines in Microsoft Fabric
+### 6. Use Data Factory Pipelines in Microsoft Fabric
 
 
 ### DP-601 Applied Skill Resources
