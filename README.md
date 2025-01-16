@@ -1,6 +1,4 @@
-# Lakehouses in Microsoft Fabric
-
-DP-601
+# Implement a Lakehouse in Microsoft Fabric
 
 
 ## About
@@ -12,20 +10,17 @@ Don't forget to star (🌟) this repo to find it easier later.
 ## Content
 
 
-<img src="https://ForTheLoveOfLearning.github.io/DP-600_Mindmap.svg">
+<img src="https://ForTheLoveOfLearning.github.io/DP-601_Mindmap.svg">
 
 
 
 --------------------------------------
 
-
-
-
   
 ## Learning Excellence Resources📒
 - [Full Course Mindmaps](https://azurebrainwave.github.io)
 
-## External Resources
+## Extra Resources
 
 ### Explore Microsoft Fabric
 
